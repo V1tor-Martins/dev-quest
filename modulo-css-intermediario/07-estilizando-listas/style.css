@@ -1,0 +1,21 @@
+*{
+    margin: 40px;
+    padding: auto;
+
+}
+
+ul{
+    list-style-image: url('./imagem/download.png');
+
+}
+
+
+ol{
+    background-color: yellow;
+    list-style: decimal;
+}
+
+ol li{
+    border: 2px solid black;
+    padding: 20px;
+}
